@@ -2,10 +2,10 @@
 
 ## Install Python 3.12.1
 1. Download **Python 3.12.1 (64-bit)** from:
-   [https://www.python.org/downloads/release/python-3121/](https://www.python.org/downloads/release/python-3121/)
+   [https://www.python.org/downloads/release/python-3121/](https://www.python.org/downloads/release/python-3121/).
+   Scroll all the way down to `Windows installer (64-bit)` (for Windows) or `macOS 64-bit universal2 installer` (for macOS).
 
-2. Run the installer → choose **Customize installation** →
-   check **Add Python to PATH** → keep all defaults → finish installation.
+3. Run the installer → choose **Customize installation** → keep all defaults → finish installation.
 
 ## Install VSCode with Python Extensions
 
